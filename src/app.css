@@ -1,0 +1,10 @@
+*{
+    font-family: 'VT323', monospace;}
+
+body{
+    background-color: aliceblue;
+}
+
+html{
+    scroll-behavior: smooth
+}
