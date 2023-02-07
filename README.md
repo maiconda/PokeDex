@@ -4,7 +4,7 @@
 
 ## Sobre o projeto
 
-O projeto em questão se trata de uma PokeDex, com a capacidade de exibir mais de 1700 Pokemons diferentes, podendo os encontrar de forma odernada, por um filtro que os separa em  tipos e pela ferramenta de pesquisas. Foi desenvolvido de forma autoral com a biblioteca React.Js e consumindo dados da PokeAPI, com o objetivo de demonstrar e praticar minhas habiliades como desenvolvedor Front-End e com o React.
+O projeto em questão se trata de uma PokeDex, com a capacidade de exibir mais de 1700 Pokemons diferentes, podendo os encontrar de forma odernada, por um filtro que os separa por tipos, ou pela ferramenta de pesquisas. Foi desenvolvido de forma autoral com a biblioteca React.Js e consumindo dados da PokeAPI, com o objetivo de demonstrar e praticar minhas habiliades como desenvolvedor Front-End e com o React.
 
 É possível acessar a página a partir do botão a seguir.
 
