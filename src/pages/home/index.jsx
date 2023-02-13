@@ -343,7 +343,7 @@ function Home() {
                             function={() => openCardView(
                                 pokemon.data.name,
                                 pokemon.data.sprites.front_default,
-                                index + 1,
+                                pokemon.data.id,
                                 pokemon.data.height,
                                 pokemon.data.weight,
                                 pokemon.data.abilities,
